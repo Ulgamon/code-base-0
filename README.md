@@ -1,0 +1,1 @@
+# Project for a Django ORM Mastery course
